@@ -1,0 +1,11 @@
+name = "CompeyDev/frktest"
+version = "0.0.2"
+description = "Simple testing framework"
+license = "MIT"
+authors = ["Francis O'Brien <github.com/itsfrank>", "Erica Marigold <hi@devcomp.xyz>"]
+repository = "https://github.com/CompeyDev/frktest-pesde"
+
+[target]
+environment = "lune"
+
+[dependencies]
