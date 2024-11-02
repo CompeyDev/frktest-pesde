@@ -7,5 +7,3 @@ repository = "https://github.com/CompeyDev/frktest-pesde"
 
 [target]
 environment = "lune"
-
-[dependencies]
